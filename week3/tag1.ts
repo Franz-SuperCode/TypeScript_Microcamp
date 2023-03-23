@@ -63,7 +63,7 @@ function genericLast2<T>(elements: T[] | T): T | undefined {
   }
   
 
-console.log(genericLast2([1,2,5]));
+console.log("Aufgabe6:",genericLast2([1,2,5]));
 
 //!-----------Aufgabe 7----------------------
 function getRange<T>(array: T[], start: number, end: number): T | T[] {

@@ -45,7 +45,7 @@ function genericLast2(elements) {
         return undefined;
     }
 }
-console.log(genericLast2([1, 2, 5]));
+console.log("Aufgabe6:", genericLast2([1, 2, 5]));
 //!-----------Aufgabe 7----------------------
 function getRange(array, start, end) {
     if (array.length === 1) {
