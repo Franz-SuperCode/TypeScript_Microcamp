@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "commonjs": "^0.0.1",
+    "linebyline": "^1.3.0",
+    "node": "^19.8.1",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
